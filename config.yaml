@@ -1,0 +1,4 @@
+
+data_path: "Data/Spam_SMS.csv"
+model_path: "Models/spam_classifier.pkl"
+vectorizer_path: "Models/vectorizer.pkl"

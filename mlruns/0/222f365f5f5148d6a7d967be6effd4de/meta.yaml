@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA%20VISHWAKARMA/Desktop/ML-project/SMS-spam-classification/mlruns/0/222f365f5f5148d6a7d967be6effd4de/artifacts
+end_time: 1744971139305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222f365f5f5148d6a7d967be6effd4de
+run_name: traveling-sheep-682
+run_uuid: 222f365f5f5148d6a7d967be6effd4de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971139185
+status: 3
+tags: []
+user_id: DIPIKA VISHWAKARMA
