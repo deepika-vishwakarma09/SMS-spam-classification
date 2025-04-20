@@ -6,3 +6,5 @@ streamlit
 joblib
 seaborn
 matplotlib
+pickle
+numpy
